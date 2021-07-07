@@ -1,5 +1,11 @@
 # RINEX-DOWNLOADER
+[![GitHub issues](https://img.shields.io/github/issues/kiarras/Rinex-Downloader?style=plastic)](https://github.com/kiarras/Rinex-Downloader/issues)
+[![GitHub forks](https://img.shields.io/github/forks/kiarras/Rinex-Downloader)](https://github.com/kiarras/Rinex-Downloader/network)
+[![GitHub stars](https://img.shields.io/github/stars/kiarras/Rinex-Downloader)](https://github.com/kiarras/Rinex-Downloader/stargazers)
+[![GitHub license](https://img.shields.io/github/license/kiarras/Rinex-Downloader)](https://github.com/kiarras/Rinex-Downloader/blob/main/LICENSE)
+
 **Rinex-Downloader** es un software para la descarga de archivos de referencia GNSS, para uso en postprocesado de datos GPS. La desgarga se hace desde los servidores ftp de las estaciones mas cercanas a un punto geografico dado.
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -12,10 +18,13 @@
 * [Version](#version)
 * [How-to use this code](#how-to-use)
 * [contact](#contact)
+* 
 ## General info
 Inicialmente se aplicara a la descarga de datos GNSS de las estaciones del IGN.
+
 ## Technologies
 c-sharp
+
 ## Screenshot
 ![Screenshot software](http://url/screenshot-software.png "screenshot software")
 
